@@ -1,9 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/api/summarize": "pages/api/summarize.js",
-  "/blog": "pages/blog.js",
-  "/blog/summarizer": "pages/blog/summarizer.js",
-  "/": "pages/index.js",
-  "/_document": "pages/_document.js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/blog":"pages/blog.html","/blog/summarizer":"pages/blog/summarizer.html","/":"pages/index.html","/_document":"pages/_document.js","/404":"pages/404.html"}
